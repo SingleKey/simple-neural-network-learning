@@ -1,0 +1,360 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
+    <mxGraphModel dx="2383" dy="1685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-1" target="CyUDepLB9UJ0Rw7FZJv9-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;w权重&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-62" y="469" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-2" target="CyUDepLB9UJ0Rw7FZJv9-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;x(输入)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-62" y="541" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-3" target="CyUDepLB9UJ0Rw7FZJv9-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="589.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;y计算结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="508.5" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-4" target="CyUDepLB9UJ0Rw7FZJv9-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;*&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="108" y="504" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-10" target="CyUDepLB9UJ0Rw7FZJv9-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;+&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="393" y="574" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-13" target="CyUDepLB9UJ0Rw7FZJv9-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;b偏置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="622" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-17" target="CyUDepLB9UJ0Rw7FZJv9-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;z&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="531" y="644" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-18" target="CyUDepLB9UJ0Rw7FZJv9-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;sigmoid&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="696" y="629.25" width="70.5" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-25" target="CyUDepLB9UJ0Rw7FZJv9-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;w权重&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="858" y="711" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-27" target="CyUDepLB9UJ0Rw7FZJv9-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;H(hidden)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="858" y="644" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-29" target="CyUDepLB9UJ0Rw7FZJv9-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1299" y="767.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;y计算结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1134" y="686.5" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-31" target="CyUDepLB9UJ0Rw7FZJv9-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;*&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1024" y="682" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-33" target="CyUDepLB9UJ0Rw7FZJv9-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1404" y="777" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;+&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1309" y="752" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-35" target="CyUDepLB9UJ0Rw7FZJv9-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;b偏置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1134" y="800" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-36" target="CyUDepLB9UJ0Rw7FZJv9-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;O(&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;output&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1447" y="822" width="85" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-39" target="CyUDepLB9UJ0Rw7FZJv9-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1789" y="843" />
+              <mxPoint x="1789" y="947" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;softma&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;x&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1602" y="807.25" width="70.5" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-42" target="CyUDepLB9UJ0Rw7FZJv9-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-42" target="CyUDepLB9UJ0Rw7FZJv9-145" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2363.235294117647" y="1038.4117647058824" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;y(置信度，神经网络输入结果)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1906" y="926" width="251" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前向传播&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-56" y="355" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;反向传播&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-49" y="1266" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-50" target="CyUDepLB9UJ0Rw7FZJv9-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;z(真实标签)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2282" y="1381.5" width="153" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=510;exitDy=65.375;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-58" target="CyUDepLB9UJ0Rw7FZJv9-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;损失函数中的均方差计算&lt;/b&gt;：用真实标签的向量减去置信度，然后计算其平均值，最后得到的lost&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;就是当前结果与正确答案之间的误差值。&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2082" y="1212.75" width="510" height="110.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-60" value="&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; font-synthesis-style: auto; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-variant-ligatures: no-common-ligatures; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;“正向传播”求损失，“反向传播”回传误差&lt;/font&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-67" y="-616" width="1000" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;正向传播与反向传播，都只是在计算节点上做某种运算操作，是第一种操作模式的两种具体表现，激活函数的“反向”表现在导数和偏导。&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-64" y="-503" width="984" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-62" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="-301" width="987" height="186.79" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CyUDepLB9UJ0Rw7FZJv9-62" vertex="1">
+          <mxGeometry width="987" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-64" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-63" vertex="1">
+          <mxGeometry width="136" height="62" as="geometry">
+            <mxRectangle width="136" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;传播的是什么&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-63" vertex="1">
+          <mxGeometry x="136" width="152" height="62" as="geometry">
+            <mxRectangle width="152" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;有哪些操作&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-63" vertex="1">
+          <mxGeometry x="288" width="157" height="62" as="geometry">
+            <mxRectangle width="157" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;激活函数如何处理&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-63" vertex="1">
+          <mxGeometry x="445" width="177" height="62" as="geometry">
+            <mxRectangle width="177" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-68" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;得到了什么&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-63" vertex="1">
+          <mxGeometry x="622" width="159" height="62" as="geometry">
+            <mxRectangle width="159" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;额外参数&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-63" vertex="1">
+          <mxGeometry x="781" width="206" height="62" as="geometry">
+            <mxRectangle width="206" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CyUDepLB9UJ0Rw7FZJv9-62" vertex="1">
+          <mxGeometry y="62" width="987" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-71" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前向传播&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-70" vertex="1">
+          <mxGeometry width="136" height="63" as="geometry">
+            <mxRectangle width="136" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-72" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输入变量和计算值&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-70" vertex="1">
+          <mxGeometry x="136" width="152" height="63" as="geometry">
+            <mxRectangle width="152" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;加法、矩阵乘法&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-70" vertex="1">
+          <mxGeometry x="288" width="157" height="63" as="geometry">
+            <mxRectangle width="157" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;激活函数计算&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-70" vertex="1">
+          <mxGeometry x="445" width="177" height="63" as="geometry">
+            <mxRectangle width="177" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-75" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;每个节点的输出&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-70" vertex="1">
+          <mxGeometry x="622" width="159" height="63" as="geometry">
+            <mxRectangle width="159" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;-&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-70" vertex="1">
+          <mxGeometry x="781" width="206" height="63" as="geometry">
+            <mxRectangle width="206" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-77" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CyUDepLB9UJ0Rw7FZJv9-62" vertex="1">
+          <mxGeometry y="125" width="987" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;反向传播&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-77" vertex="1">
+          <mxGeometry width="136" height="62" as="geometry">
+            <mxRectangle width="136" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;所示函数和loss值&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-77" vertex="1">
+          <mxGeometry x="136" width="152" height="62" as="geometry">
+            <mxRectangle width="152" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;偏导&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-77" vertex="1">
+          <mxGeometry x="288" width="157" height="62" as="geometry">
+            <mxRectangle width="157" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-81" value="激活函数导数计算" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-77" vertex="1">
+          <mxGeometry x="445" width="177" height="62" as="geometry">
+            <mxRectangle width="177" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;每个参数的梯度&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-77" vertex="1">
+          <mxGeometry x="622" width="159" height="62" as="geometry">
+            <mxRectangle width="159" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;需要使用前向计算过程中产生的值&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CyUDepLB9UJ0Rw7FZJv9-77" vertex="1">
+          <mxGeometry x="781" width="206" height="62" as="geometry">
+            <mxRectangle width="206" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-84" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;导数：&lt;/span&gt;只有一个原因影响结果时，结果随原因变化的速率。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;偏导：&lt;/b&gt;有多个原因影响结果时，只看其中一个原因变化而其他原因不变时，结果的变化速率。&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-74" y="-78" width="587" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;首先明确反向传播的目标&lt;/b&gt;：&lt;br&gt;更新【权重】w和【偏置数】b，使【损失函数】L减小&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;核心思想&lt;/b&gt;：&lt;br&gt;计算损失函数L对w和b的偏导数，然后沿梯度反方向更新参数。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;导数是研究函数之间的变化联系的，因为损失函数L(loss)是受o(output)的影响而变化的，所以&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 18px;&quot;&gt;写作dL/do，设y为真实值，则写作dL/do =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 18px; text-align: center;&quot;&gt;CrossEntropyLoss(o, y_onehot)。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 18px; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; text-align: center;&quot;&gt;因为o(output)是受到h(hidden)、w(weight)、b(bias)影响的，又&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;因为h * w + b = o，因为函数计算只看系数，所以b的&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 18px;&quot;&gt;导数是1，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 18px;&quot;&gt;所以根据链式法则，dL/dw = dL/do * do/dw，因为do/dw导数为h，所以dL/dw = dL/do * h，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;所以偏置数dL/db = dL/do * 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;因为输出层是隐藏层直接计算后得出的结果（h * w + b = o），所以隐藏层h是输出层o的组成部分，所以求隐藏层的推导公式是 do/dh = w&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;对隐藏层求导:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;设权重层w，输入层a，隐藏层h，输出层o，损失L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;在前向传播中：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;w -&amp;gt; a -&amp;gt; h -&amp;gt; o -&amp;gt; L&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;dL/dw1 = dL/do * do/dh * dh/dz * dz/dw1&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;因为隐藏层是sigmoid激活后的产物，所以应该先得出sigmoid的导数z，激活后是dz，然后才能倒推：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ol start=&quot;1&quot; style=&quot;margin: 16px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: 100%; line-height: 22px; font-optical-sizing: auto; font-size-adjust: none; font-kerning: auto; font-feature-settings: normal; font-variation-settings: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; background-color: rgb(235, 238, 242); border-radius: 6px; align-items: center; padding: 0px 5px; display: inline-flex; font-size: 0.875em !important;&quot;&gt;dL/do&lt;/code&gt;&lt;/span&gt;：损失对输出的梯度（取决于损失函数）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: 100%; line-height: 22px; font-optical-sizing: auto; font-size-adjust: none; font-kerning: auto; font-feature-settings: normal; font-variation-settings: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; background-color: rgb(235, 238, 242); border-radius: 6px; align-items: center; padding: 0px 5px; display: inline-flex; font-size: 0.875em !important;&quot;&gt;do/dh&lt;/code&gt;&lt;/span&gt;：输出对隐藏层的梯度（取决于输出层设计）&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: 100%; line-height: 22px; font-optical-sizing: auto; font-size-adjust: none; font-kerning: auto; font-feature-settings: normal; font-variation-settings: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; background-color: rgb(235, 238, 242); border-radius: 6px; align-items: center; padding: 0px 5px; display: inline-flex; font-size: 0.875em !important;&quot;&gt;dh/dz&lt;/code&gt;&lt;/span&gt;：隐藏层对线性组合的梯度：对于 sigmoid: σ(z) = 1/(1+e^{-z})，导数：σ&#39;(z) = σ(z)·[1-σ(z)] = h·(1-h)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 600;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: 100%; line-height: 22px; font-optical-sizing: auto; font-size-adjust: none; font-kerning: auto; font-feature-settings: normal; font-variation-settings: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; background-color: rgb(235, 238, 242); border-radius: 6px; align-items: center; padding: 0px 5px; display: inline-flex; font-size: 0.875em !important;&quot;&gt;dz/dw&lt;/code&gt;&lt;/span&gt;：线性组合对权重的梯度，z = w·a，所以 dz/dw = a&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;最终简洁形式是（其中a为input）:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;dL/dw1 = dh * a&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1277" y="1465" width="1345" height="857" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-88" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;反向传播的目标&lt;/b&gt;：&lt;br&gt;更新【权重】w和【偏置数】b，使【损失函数】L减小&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;核心思想&lt;/b&gt;：&lt;br&gt;计算损失函数L对w和b的偏导数，然后沿梯度反方向更新参数。&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-77" y="63" width="596" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=90.5;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-92" target="CyUDepLB9UJ0Rw7FZJv9-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-92" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span class=&quot;katex&quot; style=&quot;text-rendering: auto; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 1.21em; line-height: 1.2; font-family: KaTeX_Main, &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;span class=&quot;katex-mathml&quot; style=&quot;border: 0px; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; padding: 0px; position: absolute; overflow: hidden;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;/math&gt;&lt;font size=&quot;3&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot; style=&quot;border-color: currentcolor;&quot;&gt;&lt;span class=&quot;base&quot; style=&quot;border-color: currentcolor; text-wrap-mode: nowrap; width: min-content; position: relative; display: inline-block;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;border-color: currentcolor; display: inline-block; height: 1em; vertical-align: -0.25em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;border-color: currentcolor; font-family: KaTeX_Math; font-style: italic; margin-right: 0.03588em;&quot;&gt;σ&lt;/span&gt;&lt;span class=&quot;mopen&quot; style=&quot;border-color: currentcolor;&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;border-color: currentcolor; font-family: KaTeX_Math; font-style: italic; margin-right: 0.04398em;&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;mclose&quot; style=&quot;border-color: currentcolor;&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;border-color: currentcolor; display: inline-block; margin-right: 0.2778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot; style=&quot;border-color: currentcolor;&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;border-color: currentcolor; display: inline-block; margin-right: 0.2778em;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;base&quot; style=&quot;border-color: currentcolor; text-wrap-mode: nowrap; width: min-content; position: relative; display: inline-block;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;border-color: currentcolor; display: inline-block; height: 1.2484em; vertical-align: -0.4033em;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;span class=&quot;mord&quot; style=&quot;border-color: currentcolor;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span class=&quot;mopen nulldelimiter&quot; style=&quot;border-color: currentcolor; width: 0.12em; display: inline-block;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;span class=&quot;mfrac&quot; style=&quot;border-color: currentcolor;&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot; style=&quot;border-color: currentcolor; border-collapse: collapse; table-layout: fixed; display: inline-table; margin-right: -2px;&quot;&gt;&lt;span class=&quot;vlist-r&quot; style=&quot;border-color: currentcolor; display: table-row; color: rgb(15, 17, 21); font-size: 19.36px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;border-color: currentcolor; vertical-align: bottom; display: table-cell; position: relative; height: 0.8451em;&quot;&gt;&lt;span style=&quot;border-color: currentcolor; height: 0px; display: block; position: relative; top: -2.655em;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;border-color: currentcolor; display: inline-block; width: 0px; overflow: hidden; height: 3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot; style=&quot;border-color: currentcolor; display: inline-block;&quot;&gt;&lt;span class=&quot;mord mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;&lt;span class=&quot;mord mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;mbin mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mord mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;border-color: currentcolor; font-family: KaTeX_Math; font-style: italic;&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;msupsub&quot; style=&quot;border-color: currentcolor; text-align: left;&quot;&gt;&lt;span class=&quot;vlist-t&quot; style=&quot;border-color: currentcolor; border-collapse: collapse; table-layout: fixed; display: inline-table;&quot;&gt;&lt;span class=&quot;vlist-r&quot; style=&quot;border-color: currentcolor; display: table-row;&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;border-color: currentcolor; vertical-align: bottom; display: table-cell; position: relative; height: 0.7027em;&quot;&gt;&lt;span style=&quot;border-color: currentcolor; height: 0px; display: block; position: relative; top: -2.786em; margin-right: 0.0714em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;border-color: currentcolor; display: inline-block; width: 0px; overflow: hidden; height: 2.5em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size3 size1 mtight&quot; style=&quot;border-color: currentcolor; display: inline-block;&quot;&gt;&lt;span class=&quot;mord mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;&lt;span class=&quot;mord mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;−&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;border-color: currentcolor; font-family: KaTeX_Math; font-style: italic; margin-right: 0.04398em;&quot;&gt;z&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;border-color: currentcolor; height: 0px; display: block; position: relative; top: -3.23em;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;border-color: currentcolor; display: inline-block; width: 0px; overflow: hidden; height: 3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;frac-line&quot; style=&quot;border-color: currentcolor; display: inline-block; border-bottom-style: solid; width: 37.0781px; min-height: 1px; border-bottom-width: 0.04em;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;border-color: currentcolor; height: 0px; display: block; position: relative; top: -3.394em;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;border-color: currentcolor; display: inline-block; width: 0px; overflow: hidden; height: 3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot; style=&quot;border-color: currentcolor; display: inline-block;&quot;&gt;&lt;span class=&quot;mord mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;&lt;span class=&quot;mord mtight&quot; style=&quot;border-color: currentcolor;&quot;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot; style=&quot;border-color: currentcolor; vertical-align: bottom; width: 2px; min-width: 2px; display: table-cell;&quot;&gt;&lt;font size=&quot;3&quot;&gt;​&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot; style=&quot;border-color: currentcolor; display: table-row; color: rgb(15, 17, 21); font-size: 19.36px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="640.75" y="496" width="181" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-94" target="CyUDepLB9UJ0Rw7FZJv9-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-94" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;x = sigmoid(z)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="652.63" y="1018" width="157.25" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-95" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;整体流程示意&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="850" width="238" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-96" target="CyUDepLB9UJ0Rw7FZJv9-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-96" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;z = w * x + b&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="1018" width="157.25" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-98" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;权重和偏置计算&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="222.13" y="961" width="173" height="45.37" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-99" target="CyUDepLB9UJ0Rw7FZJv9-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eoFHoNCpgSlvXlN9UfC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-99" target="4eoFHoNCpgSlvXlN9UfC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-99" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;z = w * x + b&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1242.88" y="1018" width="157.25" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-101" target="CyUDepLB9UJ0Rw7FZJv9-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-101" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;x(输入)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-64" y="1018" width="157.25" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-103" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输入值&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-62" y="957" width="147" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-104" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;神经网络激活函数&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="640.75" y="964" width="173" height="45.37" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;权重和偏置计算&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="1235" y="964" width="173" height="45.37" as="geometry" />
+        </mxCell>
+        <mxCell id="4eoFHoNCpgSlvXlN9UfC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-106" target="4eoFHoNCpgSlvXlN9UfC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-106" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;L(loss) = CrossEntropyLoss(y, z)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1882.69" y="1381.5" width="297.63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-113" target="CyUDepLB9UJ0Rw7FZJv9-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="1039" />
+              <mxPoint x="1790" y="947" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-113" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;y = softmax(z)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1558.63" y="1018.05" width="157.25" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-127" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;因为softmax只是将数值调整为比例，所以可以直接使用而无需求导&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="1500.75" y="1185" width="273" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-113" target="CyUDepLB9UJ0Rw7FZJv9-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-145" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;输出神经网络运行结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2459" y="926" width="235" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-149" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;将结果数值转化为百分比的小数形式&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="1530.75" y="946.37" width="213" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4eoFHoNCpgSlvXlN9UfC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CyUDepLB9UJ0Rw7FZJv9-154" target="CyUDepLB9UJ0Rw7FZJv9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CyUDepLB9UJ0Rw7FZJv9-154" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;dL/dw = dL/do * do/dw = dL/do * h&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750.5" y="1381.5" width="300" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="4eoFHoNCpgSlvXlN9UfC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4eoFHoNCpgSlvXlN9UfC-3" target="CyUDepLB9UJ0Rw7FZJv9-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eoFHoNCpgSlvXlN9UfC-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多分类使用交叉熵损失函数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1777" y="1294" width="239.63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="4eoFHoNCpgSlvXlN9UfC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4eoFHoNCpgSlvXlN9UfC-9" target="CyUDepLB9UJ0Rw7FZJv9-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eoFHoNCpgSlvXlN9UfC-9" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;dL/db = dL/do * 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1381.5" width="183" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
