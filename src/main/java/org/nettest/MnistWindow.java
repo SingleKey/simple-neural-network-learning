@@ -11,7 +11,7 @@ public class MnistWindow extends JFrame {
     /**
      * 创建手写数字识别的神经网络
      */
-    private static final SimpleNetOptimized simpleNetOptimized = new SimpleNetOptimized(728, 512, 10);
+//    private static final SimpleNetOptimized simpleNetOptimized = new SimpleNetOptimized(728, 512, 10);
 
     private static final int LOGICAL_WIDTH = 28;
     private static final int LOGICAL_HEIGHT = 28;
@@ -47,6 +47,8 @@ public class MnistWindow extends JFrame {
         }
     };
 
+    private JLabel resultLabel = new JLabel("识别结果：暂无");
+
     public MnistWindow() {
         setTitle("手写数字识别测试");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -72,9 +74,13 @@ public class MnistWindow extends JFrame {
         JButton recognizeBtn = new JButton("识别");
         recognizeBtn.addActionListener(e -> recognize());
 
+
+
         controlPanel.add(clearBtn);
         controlPanel.add(Box.createVerticalStrut(10));
         controlPanel.add(recognizeBtn);
+        controlPanel.add(Box.createVerticalStrut(10));
+        controlPanel.add(resultLabel);
 
         // 组合
         add(canvasPanel, BorderLayout.CENTER);
